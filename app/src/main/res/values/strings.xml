@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="baseUrl">http://192.168.1.9:81/friendfinder/</string>
+</resources>
